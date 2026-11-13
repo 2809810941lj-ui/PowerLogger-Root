@@ -3,9 +3,8 @@
 Android Root 级实时整机功耗曲线、分应用能耗分析与 FPS 帧率记录工具（Kotlin + Compose + Room）。
 
 ## 📥 下载与安装
-- **直接安装**：点击上方文件列表中的 `PowerLogger_2.9.apk` 下载并安装。
-https://github.com/2809810941lj-ui/PowerLogger-Root/releases/latest
-- **查看源码**：下载 `Source-Code.zip`，解压后使用 Android Studio 打开即可查看。
+- **直接安装**：👉 [**点击这里下载最新版 APK**](https://github.com/2809810941lj-ui/PowerLogger-Root/releases/latest) 👈
+- **查看源码**：下载仓库中的源码压缩包，解压后使用 Android Studio 打开即可。
 
 ## 📄 开源协议
 本项目基于 [MIT license](LICENSE) 开源。
